@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">State Persistence on Orientation Change</string>
+
+    <!-- Options Menu -!-->
+    <string name="info">
+        This is a demo of how to retain essential \'View\' Information (i.e. variables,
+        drawables etc…) upon changing Device Orientation.\n\n
+        One Demo uses \'Livedata\', the other uses Preferences.
+    </string>
+    <string name="live_data">Live Data</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="back_button">Back</string>
+
+    <!-- Live Data Fragment -!-->
+    <string name="generate">Generate Unique Integers</string>
+    <string name="swap">Swap Some Numbers</string>
+    <string name="no_nums">No Numbers Generated</string>
+    <string name="redrawn">View was redrawn %1s times</string>
+    <string name="just_started">View was just created</string>
+
+    <!-- Preferences Fragment -!-->
+    <string name="enter_name">Enter Your Name pls:</string>
+    <string name="enter_number">Enter Your Number pls:</string>
+
+    <!-- Preferences -!-->
+    <integer name="TIMES_REDRAWN">0</integer>
+    <string name="NAME">None</string>
+    <string name="PHONE">None</string>
+
+</resources>
